@@ -63,8 +63,8 @@ const Hero: React.FC = () => {
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-r from-primary-400 to-secondary-400 p-1 animate-glow">
               <img
-                src=""C:\Users\kjxav\OneDrive\Pictures\Screenshots\WhatsApp Image 2025-06-26 at 16.45.19_cd37b4d8.jpg""
-                alt="xavier"
+                src="https://images.pexels.com/photos/4307869/pexels-photo-4307869.jpeg?auto=compress&cs=tinysrgb&w=400"
+                alt="kj xavier"
                 className="w-full h-full rounded-full object-cover"
               />
             </div>
